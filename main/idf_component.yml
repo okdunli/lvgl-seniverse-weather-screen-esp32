@@ -1,0 +1,20 @@
+dependencies:
+  lvgl/lvgl: "~8.3.0"
+  espressif/esp_lvgl_port: "~1.4.0"
+  espressif/esp_lcd_touch_ft5x06: "~1.0.6"
+
+idf:
+  version: ">-4.1.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
